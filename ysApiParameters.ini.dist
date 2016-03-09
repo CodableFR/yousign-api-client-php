@@ -15,7 +15,7 @@ login = "VOTRE_LOGIN"
 ; Votre mot de passe Yousign
 password = "VOTRE_MOT_DE_PASSE"
 
-; Indique si le mot de passe passé et crypté ou non (A décommenter si le mot de passe passé et crypté)
+; Indique si le mot de passe passé et crypté ou non (A décommenter si le mot de passe passé est crypté)
 ; isEncryptedPassword = true;
 
 ; clef d'api
